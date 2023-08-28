@@ -12,6 +12,10 @@ Arquivos Parquet: contêm informações sobre apartamentos e reservas.
 Os dados dos usuários foram carregados a partir de uma fonte JDBC.
 Os dados sobre apartamentos e reservas foram carregados a partir de arquivos Parquet.
 3.2. Transformações e Análises
+![WhatsApp Image 2023-08-28 at 11 03 19](https://github.com/alexandrepino/Teste_Pyspark/assets/60200989/7f55bf91-3737-4990-af96-94e794e5d1a4)
+![WhatsApp Image 2023-08-28 at 11 03 55](https://github.com/alexandrepino/Teste_Pyspark/assets/60200989/aba42d61-b5c4-41d9-85cc-a8884ddf6efd)
+![WhatsApp Image 2023-08-28 at 11 04 05](https://github.com/alexandrepino/Teste_Pyspark/assets/60200989/fef7fff4-2afa-4de6-8bcc-ec67f88765ad)
+
 Os dados foram combinados usando operações de join.
 Foi realizada a análise para identificar o país com o maior número de itens cancelados.
 Foi realizada a análise para determinar o faturamento da linha de produto mais vendida em 2005.
@@ -24,10 +28,3 @@ Foram abordados potenciais erros e soluções durante essa integração.
 6. Conclusão e Próximos Passos
 Este projeto demonstrou a capacidade de integrar, transformar e analisar dados usando Spark e Databricks. A integração direta com o GitHub pode ser explorada mais a fundo para otimizar o processo de versionamento de código.
 
-Essa é uma estrutura básica e geral da documentação. Recomendo adicionar detalhes específicos sobre:
-
-Detalhes técnicos: como, por exemplo, versões das bibliotecas/ferramentas usadas, configurações específicas etc.
-Decisões de design: por que certas abordagens foram escolhidas em detrimento de outras.
-Problemas e desafios: qualquer problema que tenha surgido durante o desenvolvimento e como foi resolvido.
-Referências: quaisquer recursos ou fontes externas que tenham sido consultadas ou utilizadas durante o projeto.
-Espero que isso ajude a começar sua documentação! Se precisar de mais detalhes ou seções, estou aqui para ajudar.
