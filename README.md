@@ -19,8 +19,8 @@ Os dados sobre apartamentos e reservas foram carregados a partir de arquivos Par
 Os dados foram combinados usando operações de join.
 Foi realizada a análise para identificar o país com o maior número de itens cancelados.
 Foi realizada a análise para determinar o faturamento da linha de produto mais vendida em 2005.
-4. Resultados
-Os resultados das análises foram salvos em formatos específicos, como DataFrames Spark, e foram feitas conversões para o formato Delta para otimização e consulta mais eficiente.
+
+4. Os resultados das análises foram salvos em formatos específicos, como DataFrames Spark, e foram feitas conversões para o formato Delta para otimização e consulta mais eficiente.
 
 5. Integração com GitHub
 Foi discutida a possibilidade de integrar diretamente o Databricks com o GitHub.
