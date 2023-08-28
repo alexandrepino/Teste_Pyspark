@@ -7,6 +7,8 @@ JDBC: uma fonte de dados relacional contendo informações de usuários.
 Arquivos Parquet: contêm informações sobre apartamentos e reservas.
 3. Etapas de Processamento
 3.1. Carregamento de Dados
+   ![WhatsApp Image 2023-08-28 at 11 02 50](https://github.com/alexandrepino/Teste_Pyspark/assets/60200989/562e4e95-22c1-49c4-8997-bd1988ac9f6f)
+
 Os dados dos usuários foram carregados a partir de uma fonte JDBC.
 Os dados sobre apartamentos e reservas foram carregados a partir de arquivos Parquet.
 3.2. Transformações e Análises
